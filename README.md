@@ -74,6 +74,7 @@ or
 It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple Step .
 
 ### Fig 3: Setting Multi-step simulation
+![WhatsApp Image 2024-11-12 at 3 29 09 PM (3)](https://github.com/user-attachments/assets/61c1e59d-7335-474b-ab4c-e93ba241a7c3)
 
 Select Multiple Step and then select “Create cds.lib File” as shown in below figure 
 
@@ -102,6 +103,8 @@ Worklib is the directory where all the compiled codes are stored while Snapshot 
 To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
 
 ### Fig 6: Nclaunch Window
+![WhatsApp Image 2024-11-12 at 3 29 07 PM](https://github.com/user-attachments/assets/78a23e13-6e3a-4ac6-bc8e-59f0d59d1106)
+
 
 ## Step 1: Compilation:
 
@@ -174,10 +177,11 @@ Simulation allow to dump design and test bench signals into a waveform
 Steps for simulation – Run the simulation command with simulator options
 
 ## Fig 9: Design Browser window for simulation
+![WhatsApp Image 2024-11-12 at 3 29 09 PM](https://github.com/user-attachments/assets/1e6492a4-ab81-4ec3-a681-c0b2920b0963)
 
 ## Fig 10:Simulation Waveform Window
+![WhatsApp Image 2024-11-12 at 3 29 10 PM](https://github.com/user-attachments/assets/b2e96ab7-a23b-4785-84a1-8ce594e490e1)
 
-## Fig 11:Simulation Waveform Window
 
 
 
